@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "from": {
+                        "startLines": "4,10,3,7,5,6,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,415,59,273,167,223,314,363",
+                        "endColumns": "53,48,51,39,54,48,47,50",
+                        "endOffsets": "161,459,106,308,217,267,357,409"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,158,210,250,305,354,402",
+                        "endColumns": "53,48,51,39,54,48,47,50",
+                        "endOffsets": "104,153,205,245,300,349,397,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

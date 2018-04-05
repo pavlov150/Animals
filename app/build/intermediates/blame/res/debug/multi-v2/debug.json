@@ -1,0 +1,176 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "12,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "562,853",
+                        "endLines": "18,21",
+                        "endColumns": "12,12",
+                        "endOffsets": "848,1008"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,10,3,7,5,6,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "115,413,59,272,169,228,313,360",
+                        "endColumns": "52,45,54,39,57,42,45,51",
+                        "endOffsets": "163,454,109,307,222,266,354,407"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,268,323,363,421,464,510",
+                        "endColumns": "52,45,54,39,57,42,45,51",
+                        "endOffsets": "217,263,318,358,416,459,505,557"
+                    }
+                },
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "from": {
+                        "startLines": "4,10,3,7,5,6,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,415,59,273,167,223,314,363",
+                        "endColumns": "53,48,51,39,54,48,47,50",
+                        "endOffsets": "161,459,106,308,217,267,357,409"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,158,210,250,305,354,402",
+                        "endColumns": "53,48,51,39,54,48,47,50",
+                        "endOffsets": "104,153,205,245,300,349,397,448"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projects\\Android\\Animals\\app\\build\\intermediates\\res\\merged\\debug\\values-en-rUS_values-en-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\Projects\\Android\\Animals\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "4,10,3,7,5,6,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "115,413,59,272,169,228,313,360",
+                        "endColumns": "52,45,54,39,57,42,45,51",
+                        "endOffsets": "163,454,109,307,222,266,354,407"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,154,209,249,307,350,396",
+                        "endColumns": "52,45,54,39,57,42,45,51",
+                        "endOffsets": "103,149,204,244,302,345,391,443"
+                    }
+                }
+            ]
+        }
+    ]
+}

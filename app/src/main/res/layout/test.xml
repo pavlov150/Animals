@@ -1,0 +1,77 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pattern_bg"
+    >
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#15087b"
+            android:text="@string/mlekop"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/bear"
+                android:src="@drawable/bear"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:padding="1dp"
+                android:background="@null" />
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/whitebear"
+                android:src="@drawable/whitebear"
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:padding="1dp" />
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/lion"
+                android:src="@drawable/lion"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:padding="1dp"
+                android:background="@null" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</ScrollView>

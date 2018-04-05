@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Development/Projects/Animals/app/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Настройки</string>
+    <string name="amphibia">Земноводные</string>
+    <string name="app_name">Звуки животных</string>
+    <string name="birds">Птицы</string>
+    <string name="hello_world">Звуки животных</string>
+    <string name="mlekop">Млекопитающие</string>
+    <string name="nasekomie">Насекомые</string>
+    <string name="presmik">Пресмыкающиеся</string>
+</resources>
